@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898962423921",
+    "firebase_url": "https://store-image-in-firebase.firebaseio.com",
+    "project_id": "store-image-in-firebase",
+    "storage_bucket": "store-image-in-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898962423921:android:1e6ac8aeb1eadc6e9b1bd0",
+        "android_client_info": {
+          "package_name": "com.example.storeimageinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898962423921-t2beiklbt4l4t6ugvabqq0obkv3lmb5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkB7ePwuCLX8YLWpaHqAusEj9Y0-V6BiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898962423921-t2beiklbt4l4t6ugvabqq0obkv3lmb5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
